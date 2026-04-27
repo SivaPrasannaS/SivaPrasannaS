@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/SivaPrasannaS">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+applications;MEAN+%7C+MERN+%7C+Java+Full-Stack+Developer;AWS+Cloud+Practitioner+%F0%9F%8C%A9%EF%B8%8F;Microservices+%7C+Spring+Boot+%7C+React;Turning+ideas+into+production-ready+apps+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+applications;MEAN+%7C+MERN+%7C+Java+Full-Stack+Developer;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F%E2%9C%85;Microservices+%7C+Spring+Boot+%7C+React;Turning+ideas+into+production-ready+apps+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -110,7 +110,7 @@ Hey there! I'm **Siva Prasanna S**, a passionate **Full-Stack Developer** based 
 
 | Badge | Certification | Status | Verify |
 |:-----:|:-------------|:------:|:------:|
-| ☁️ | **AWS Certified Cloud Practitioner (CLF-C02)** | 🔄 In Progress | [![Credly](https://img.shields.io/badge/Credly-View%20Badges-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/siva-prasanna-s.b75f15a3) |
+| ☁️ | **AWS Certified Cloud Practitioner (CLF-C02)** | ✅ Completed | [![Credly](https://img.shields.io/badge/Credly-View%20Badge-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/siva-prasanna-s.b75f15a3) |
 
 </div>
 
