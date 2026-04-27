@@ -108,9 +108,9 @@ Hey there! I'm **Siva Prasanna S**, a passionate **Full-Stack Developer** based 
 
 <div align="center">
 
-| Badge | Certification | Status |
-|:-----:|:-------------|:------:|
-| ☁️ | **AWS Certified Cloud Practitioner (CLF-C02)** | 🔄 In Progress |
+| Badge | Certification | Status | Verify |
+|:-----:|:-------------|:------:|:------:|
+| ☁️ | **AWS Certified Cloud Practitioner (CLF-C02)** | 🔄 In Progress | [![Credly](https://img.shields.io/badge/Credly-View%20Badges-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/siva-prasanna-s.b75f15a3) |
 
 </div>
 
@@ -142,6 +142,7 @@ Hey there! I'm **Siva Prasanna S**, a passionate **Full-Stack Developer** based 
 
 [![GitHub](https://img.shields.io/badge/GitHub-SivaPrasannaS-181717?style=for-the-badge&logo=github)](https://github.com/SivaPrasannaS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Siva_Prasanna_S-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sivaprasannas)
+[![Credly](https://img.shields.io/badge/Credly-My%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/siva-prasanna-s.b75f15a3)
 [![Email](https://img.shields.io/badge/Email-Say_Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
