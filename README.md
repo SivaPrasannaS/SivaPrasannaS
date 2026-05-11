@@ -71,39 +71,6 @@ Hey there! I'm **Siva Prasanna S**, a passionate **Full-Stack Developer** based 
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏃 SprintBoard — Agile Project Tracker
-> A full-stack Agile tracker with JWT-secured RBAC, sprint management, story points, and real-time board updates.
-
-- **Stack:** React · Redux Toolkit · Spring Boot · Spring Security · MySQL
-- **Features:** Role-based access (Admin / Dev / Viewer), Sprint CRUD, Kanban board, React Hook Form + Yup validation
-- 🔗 [View Repository](https://github.com/SivaPrasannaS/SprintBoard)
-
----
-
-### 📝 Blog / CMS Application
-> Production-ready content management system with rich-text editor, category tagging, and multi-role author management.
-
-- **Stack:** React · Spring Boot · PostgreSQL · JWT Auth
-- **Features:** WYSIWYG editor, post scheduling, draft/publish workflow, comment moderation
-- 🔗 [View Repository](https://github.com/SivaPrasannaS/blog-cms)
-
----
-
-### 🔧 Task Management — Microservices Architecture
-> Cloud-native task management app built as a suite of microservices with event-driven communication.
-
-- **Stack:** Spring Boot · Spring Cloud Gateway · Eureka · Apache Kafka · Docker · MySQL / MongoDB
-- **Features:** Auth Service (JWT), Task Service, Notification Service (Kafka), centralized API Gateway, service discovery
-- 🔗 [View Repository](https://github.com/SivaPrasannaS/task-management-microservices)
-
----
-
-> 📌 *More projects available on my [GitHub profile](https://github.com/SivaPrasannaS?tab=repositories)*
-
----
-
 ## 🏅 Certifications
 
 <div align="center">
