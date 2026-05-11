@@ -87,34 +87,19 @@ Hey there! I'm **Siva Prasanna S**, a passionate **Full-Stack Developer** based 
 
 <div align="center">
 
-<a href="https://github.com/SivaPrasannaS/spring-security">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=spring-security&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/SivaPrasannaS/Event-Hub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=Event-Hub&theme=tokyonight&hide_border=true" />
-</a>
+| 🔐 Spring Security | 🎟️ Event Hub |
+|:---|:---|
+| [![spring-security](https://img.shields.io/badge/Repo-spring--security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/SivaPrasannaS/spring-security) | [![Event-Hub](https://img.shields.io/badge/Repo-Event--Hub-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/SivaPrasannaS/Event-Hub) |
+| JWT-based authentication system with role-based access control (RBAC), Spring Security filters, and Dockerized deployment | Event management platform built with Spring Boot RESTful APIs — handles event creation, registration, and listing |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
+| ⭐ 2 stars | ⭐ Active |
 
-<br/><br/>
-
-<a href="https://github.com/SivaPrasannaS/Blog-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=Blog-Application&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/SivaPrasannaS/Content-Hub-Manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=Content-Hub-Manager&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| # | Project | Tech Stack | Highlights |
-|:-:|:--------|:----------:|:-----------|
-| 🔐 | **[Spring Security](https://github.com/SivaPrasannaS/spring-security)** | `Java` `Spring Boot` `Docker` | JWT-based auth system with role-based access control and Dockerized deployment |
-| 🎟️ | **[Event Hub](https://github.com/SivaPrasannaS/Event-Hub)** | `Java` `Spring Boot` | Event management platform built with Spring Boot and RESTful APIs |
-| 📝 | **[Blog Application](https://github.com/SivaPrasannaS/Blog-Application)** | `JavaScript` `Node.js` | Full-stack blog platform with CRUD operations, user auth, and dynamic content |
-| 📦 | **[Content Hub Manager](https://github.com/SivaPrasannaS/Content-Hub-Manager)** | `JavaScript` `React` | Centralized content management system with RBAC and responsive UI |
+| 📝 Blog Application | 📦 Content Hub Manager |
+|:---|:---|
+| [![Blog-Application](https://img.shields.io/badge/Repo-Blog--Application-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/SivaPrasannaS/Blog-Application) | [![Content-Hub-Manager](https://img.shields.io/badge/Repo-Content--Hub--Manager-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/SivaPrasannaS/Content-Hub-Manager) |
+| Full-stack blog platform with CRUD operations, JWT user authentication, rich text support, and dynamic content rendering | Centralized CMS with role-based access control, content categorization, and a responsive React-powered UI |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| ⭐ Full-Stack | ⭐ Full-Stack |
 
 </div>
 
