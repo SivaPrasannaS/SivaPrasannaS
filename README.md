@@ -83,6 +83,43 @@ Hey there! I'm **Siva Prasanna S**, a passionate **Full-Stack Developer** based 
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/SivaPrasannaS/spring-security">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=spring-security&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/SivaPrasannaS/Event-Hub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=Event-Hub&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/SivaPrasannaS/Blog-Application">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=Blog-Application&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/SivaPrasannaS/Content-Hub-Manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=Content-Hub-Manager&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| # | Project | Tech Stack | Highlights |
+|:-:|:--------|:----------:|:-----------|
+| 🔐 | **[Spring Security](https://github.com/SivaPrasannaS/spring-security)** | `Java` `Spring Boot` `Docker` | JWT-based auth system with role-based access control and Dockerized deployment |
+| 🎟️ | **[Event Hub](https://github.com/SivaPrasannaS/Event-Hub)** | `Java` `Spring Boot` | Event management platform built with Spring Boot and RESTful APIs |
+| 📝 | **[Blog Application](https://github.com/SivaPrasannaS/Blog-Application)** | `JavaScript` `Node.js` | Full-stack blog platform with CRUD operations, user auth, and dynamic content |
+| 📦 | **[Content Hub Manager](https://github.com/SivaPrasannaS/Content-Hub-Manager)** | `JavaScript` `React` | Centralized content management system with RBAC and responsive UI |
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
