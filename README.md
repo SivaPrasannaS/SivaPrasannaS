@@ -1,5 +1,3 @@
-# 🌌 Siva Prasanna S — Futuristic GitHub Universe
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:0F2027,25:203A43,50:2C5364,75:1CB5E0,100:000046&text=Siva%20Prasanna%20S&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20⚡%20Cloud%20Explorer%20☁️%20Tech%20Trainer%20🚀&descAlignY=58&descSize=24"/>
@@ -29,7 +27,6 @@
 <td width="60%">
 
 ```yaml
-name: Siva Prasanna S
 role: Technical Trainer & Full Stack Developer
 location: Tamil Nadu, India 🇮🇳
 
@@ -126,13 +123,7 @@ philosophy:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SivaPrasannaS/SivaPrasannaS/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
+<img src="https://github.com/SivaPrasannaS/SivaPrasannaS/blob/output/github-contribution-grid-snake-dark.svg?raw=true" width="100%"/>rojects
 
 <div align="center">
 
@@ -242,24 +233,15 @@ Modern CMS dashboard with responsive UI & state management.
 
 <div align="center">
 
-```java
-while(alive){
+````java
+while(alive)Futuristic```java
+while (alive) {
     eat();
     sleep();
     code();
     repeat();
 }
-```
-
-</div>
-
----
-
-# 🌌 Futuristic Footer
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000046,25:1CB5E0,50:2C5364,75:203A43,100:0F2027&section=footer"/>
+```vercel.app/api?type=waving&height=180&color=0:000046,25:1CB5E0,50:2C5364,75:203A43,100:0F2027&section=footer"/>
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 
@@ -273,7 +255,7 @@ while(alive){
 
 ```bash
 .github/workflows/snake.yml
-```
+````
 
 ```yml
 name: Generate Snake
