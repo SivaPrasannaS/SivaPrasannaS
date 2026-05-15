@@ -4,11 +4,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Crafting+beautiful+and+scalable+applications;Spring+Boot+%7C+React+%7C+Microservices;Cloud+Enthusiast+☁️+%7C+Tech+Trainer+🚀;Clean+Architecture+%7C+Secure+Systems+%7C+Modern+UI" />
-
-<br/>
-<br/>
-
 <img src="https://img.shields.io/github/followers/SivaPrasannaS?style=for-the-badge&logo=github&color=38BDF8&labelColor=0F172A" />
 <img src="https://komarev.com/ghpvc/?username=SivaPrasannaS&style=for-the-badge&color=38BDF8&labelColor=0F172A" />
 
