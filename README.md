@@ -105,7 +105,9 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SivaPrasannaS/SivaPrasannaS/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+> ⚠️ The snake animation will appear only after enabling the GitHub Action workflow and waiting for the first workflow run.
+
+<img src="https://raw.githubusercontent.com/SivaPrasannaS/SivaPrasannaS/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -113,12 +115,79 @@ currently_learning:
 
 # 🚀 Featured Projects
 
-| Project                | Description                                     |
-| ---------------------- | ----------------------------------------------- |
-| 🔐 Spring Security     | JWT Authentication & RBAC using Spring Security |
-| 🎟️ Event Hub          | Event Management REST API Platform              |
-| 📝 Blog Application    | Full Stack Blogging Platform                    |
-| 📦 Content Hub Manager | React-based CMS Dashboard                       |
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+## 🔐 Spring Security
+
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+
+### ✨ Features
+
+* JWT Authentication
+* Role Based Access Control
+* Secure REST APIs
+* Dockerized Deployment
+
+</td>
+<td width="50%">
+
+## 🎟️ Event Hub
+
+<img src="https://img.shields.io/badge/Event%20Hub-FF6B00?style=for-the-badge&logo=java&logoColor=white" />
+
+### ✨ Features
+
+* Event Registration
+* RESTful APIs
+* Scalable Backend
+* Spring Boot Architecture
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 📝 Blog Application
+
+<img src="https://img.shields.io/badge/Blog%20Platform-00C853?style=for-the-badge&logo=node.js&logoColor=white" />
+
+### ✨ Features
+
+* Authentication System
+* CRUD Operations
+* Dynamic Content
+* Responsive UI
+
+</td>
+<td width="50%">
+
+## 📦 Content Hub Manager
+
+<img src="https://img.shields.io/badge/Content%20Hub-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+### ✨ Features
+
+* React Dashboard
+* State Management
+* CMS Functionality
+* Responsive Design
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---|---|
+| 🔐 Spring Security | JWT Authentication & RBAC using Spring Security |
+| 🎟️ Event Hub | Event Management REST API Platform |
+| 📝 Blog Application | Full Stack Blogging Platform |
+| 📦 Content Hub Manager | React-based CMS Dashboard |
 
 ---
 
@@ -185,7 +254,7 @@ while (alive) {
 
 ---
 
-# 🐍 Snake Workflow Setup
+# 🐍 Snake Workflow Setup (Required for Animation)
 
 ```bash
 .github/workflows/snake.yml
