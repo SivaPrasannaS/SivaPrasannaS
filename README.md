@@ -75,38 +75,48 @@ philosophy:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=spring-security&theme=tokyonight&hide_border=true&bg_color=0F172A" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=Event-Hub&theme=tokyonight&hide_border=true&bg_color=0F172A" />
-
-</div>
-
-<br/>
-
 <table>
 <tr>
 <td width="50%">
 
-### 🔐 Spring Security System
+## 🔐 Spring Security System
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+
+### ✨ Features
 
 * JWT Authentication
 * RBAC Authorization
 * Secure REST APIs
 * Dockerized Setup
+* Production-ready Backend
+
+🔗 [https://github.com/SivaPrasannaS/spring-security](https://github.com/SivaPrasannaS/spring-security)
 
 </td>
 <td width="50%">
 
-### 🚀 Event Hub Platform
+## 🚀 Event Hub Platform
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+### ✨ Features
 
 * Event Registration
 * Backend Scalability
 * Clean Architecture
 * Full Stack Integration
+* Modern API Design
+
+🔗 [https://github.com/SivaPrasannaS/Event-Hub](https://github.com/SivaPrasannaS/Event-Hub)
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -114,14 +124,14 @@ philosophy:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SivaPrasannaS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SivaPrasannaS&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaPrasannaS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SivaPrasannaS&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 <br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=SivaPrasannaS&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=SivaPrasannaS&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -131,7 +141,7 @@ philosophy:
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SivaPrasannaS&bg_color=0F172A&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SivaPrasannaS&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
