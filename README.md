@@ -1,41 +1,41 @@
-# 🌌 Siva Prasanna S
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,25:203A43,50:2C5364,75:1CB5E0,100:000046&text=Siva%20Prasanna%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20⚡%20Cloud%20Explorer%20☁️&descAlignY=58&descSize=22" />
+# ⚡ Siva Prasanna S
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Microservices;Cloud+Enthusiast+☁️;Building+Modern+Scalable+Applications+🚀" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Applications+🚀;Spring+Boot+%7C+React+%7C+Microservices;AWS+Cloud+Practitioner+☁️;Always+Learning+New+Technologies+🔥" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
 
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SivaPrasannaS&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/SivaPrasannaS?style=for-the-badge&logo=github&label=Followers" />
+<img src="https://komarev.com/ghpvc/?username=SivaPrasannaS&style=flat-square&color=58A6FF" />
+<img src="https://img.shields.io/github/followers/SivaPrasannaS?style=flat-square&color=58A6FF" />
 
 </div>
 
 ---
 
-# 🪐 About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Code%20.%20Build%20.%20Scale&fontSize=42&fontColor=ffffff&animation=fadeIn&color=0:0d1117,100:1f6feb" />
 
-<table>
-<tr>
-<td width="60%">
+# 🧑‍💻 About Me
 
 ```yaml
 name: Siva Prasanna S
 role: Technical Trainer & Full Stack Developer
-location: Tamil Nadu, India 🇮🇳
+location: India 🇮🇳
 
-skills:
-  - Java
+specialization:
   - Spring Boot
   - React
-  - Angular
   - Microservices
-  - AWS
+  - REST APIs
+  - Cloud
 
 currently_learning:
   - Kafka
@@ -43,32 +43,57 @@ currently_learning:
   - System Design
 ```
 
-</td>
-<td width="40%">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
-
-</td>
-</tr>
-</table>
-
 ---
 
-# ⚡ Tech Stack
+# ⚒️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,redux,angular,nodejs,express,mongodb,mysql,postgres,docker,kubernetes,aws,git,github,linux,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,redux,angular,nodejs,express,mongodb,mysql,postgres,docker,aws,git,github,linux,vscode&perline=8" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SivaPrasannaS&theme=algolia&no-frame=true&column=4" />
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Spring Security System
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=spring-security&theme=tokyonight&hide_border=true" />
+
+</td>
+<td width="50%">
+
+### 🎟️ Event Hub
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=Event-Hub&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📝 Blog Application
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=Blog-Application&theme=tokyonight&hide_border=true" />
+
+</td>
+<td width="50%">
+
+### 📦 Content Hub Manager
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=Content-Hub-Manager&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -78,14 +103,13 @@ currently_learning:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SivaPrasannaS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SivaPrasannaS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaPrasannaS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaPrasannaS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 <br/>
-<br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SivaPrasannaS&theme=tokyonight&hide_border=true&background=0D1117" />
+<img width="70%" src="https://streak-stats.demolab.com?user=SivaPrasannaS&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
@@ -101,111 +125,11 @@ currently_learning:
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-> ⚠️ The snake animation will appear only after enabling the GitHub Action workflow and waiting for the first workflow run.
-
-<img src="https://raw.githubusercontent.com/SivaPrasannaS/SivaPrasannaS/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-## 🔐 Spring Security
-
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-
-### ✨ Features
-
-* JWT Authentication
-* Role Based Access Control
-* Secure REST APIs
-* Dockerized Deployment
-
-</td>
-<td width="50%">
-
-## 🎟️ Event Hub
-
-<img src="https://img.shields.io/badge/Event%20Hub-FF6B00?style=for-the-badge&logo=java&logoColor=white" />
-
-### ✨ Features
-
-* Event Registration
-* RESTful APIs
-* Scalable Backend
-* Spring Boot Architecture
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 📝 Blog Application
-
-<img src="https://img.shields.io/badge/Blog%20Platform-00C853?style=for-the-badge&logo=node.js&logoColor=white" />
-
-### ✨ Features
-
-* Authentication System
-* CRUD Operations
-* Dynamic Content
-* Responsive UI
-
-</td>
-<td width="50%">
-
-## 📦 Content Hub Manager
-
-<img src="https://img.shields.io/badge/Content%20Hub-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-
-### ✨ Features
-
-* React Dashboard
-* State Management
-* CMS Functionality
-* Responsive Design
-
-</td>
-</tr>
-</table>
-
-</div>
-
----|---|
-| 🔐 Spring Security | JWT Authentication & RBAC using Spring Security |
-| 🎟️ Event Hub | Event Management REST API Platform |
-| 📝 Blog Application | Full Stack Blogging Platform |
-| 📦 Content Hub Manager | React-based CMS Dashboard |
-
----
-
-# ☁️ Certification
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-
-</div>
-
----
-
-# 💡 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=SivaPrasannaS&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -216,76 +140,23 @@ currently_learning:
 <div align="center">
 
 <a href="https://github.com/SivaPrasannaS">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
 
 </div>
-
----
-
-# 🧠 Philosophy
-
-```java
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-```
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:000046,25:1CB5E0,50:2C5364,75:203A43,100:0F2027&section=footer" />
-
-### 🚀 Turning Coffee Into Scalable Applications
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1f6feb,100:0d1117" />
 
 </div>
-
----
-
-# 🐍 Snake Workflow Setup (Required for Animation)
-
-```bash
-.github/workflows/snake.yml
-```
-
-```yml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v3
-
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: SivaPrasannaS
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
