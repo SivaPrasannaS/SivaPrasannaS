@@ -65,7 +65,7 @@ philosophy:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,redux,angular,nodejs,express,mongodb,mysql,postgres,docker,aws,kubernetes,git,github,linux,vscode&perline=6" />
+<img width="100%" src="https://skillicons.dev/icons?i=java,spring,react,redux,angular,nodejs,express,mongodb,mysql,postgres,docker,aws,kubernetes,git,github,linux,vscode&perline=9" />
 
 </div>
 
@@ -75,26 +75,38 @@ philosophy:
 
 <div align="center">
 
-<a href="https://github.com/SivaPrasannaS/spring-security">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=spring-security&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight&hide_border=true&bg_color=0F172A" />
 
-<a href="https://github.com/SivaPrasannaS/Event-Hub">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=Event-Hub&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8" />
-</a>
-
-<br/>
-<br/>
-
-<a href="https://github.com/SivaPrasannaS/Blog-Application">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=Blog-Application&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8" />
-</a>
-
-<a href="https://github.com/SivaPrasannaS/Content-Hub-Manager">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=Content-Hub-Manager&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tokyo-night&repo=tokyo-night-vscode-theme&theme=tokyonight&hide_border=true&bg_color=0F172A" />
 
 </div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Spring Security System
+
+* JWT Authentication
+* RBAC Authorization
+* Secure REST APIs
+* Dockerized Setup
+
+</td>
+<td width="50%">
+
+### 🚀 Event Hub Platform
+
+* Event Registration
+* Backend Scalability
+* Clean Architecture
+* Full Stack Integration
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -102,9 +114,9 @@ philosophy:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SivaPrasannaS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaPrasannaS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8" />
 
 <br/>
 <br/>
