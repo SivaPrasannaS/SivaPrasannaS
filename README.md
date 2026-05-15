@@ -75,9 +75,9 @@ philosophy:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight&hide_border=true&bg_color=0F172A" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=spring-security&theme=tokyonight&hide_border=true&bg_color=0F172A" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tokyo-night&repo=tokyo-night-vscode-theme&theme=tokyonight&hide_border=true&bg_color=0F172A" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=Event-Hub&theme=tokyonight&hide_border=true&bg_color=0F172A" />
 
 </div>
 
@@ -114,9 +114,9 @@ philosophy:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SivaPrasannaS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaPrasannaS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8" />
 
 <br/>
 <br/>
