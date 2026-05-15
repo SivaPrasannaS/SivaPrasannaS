@@ -1,51 +1,47 @@
 <div align="center">
 
-# ⚡ Siva Prasanna S
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Microservices;Cloud+Enthusiast+☁️;Building+Modern+Scalable+Applications+🚀" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E3A8A,100:38BDF8&text=Siva%20Prasanna%20S&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20•%20Spring%20Boot%20•%20React%20•%20Cloud&descAlignY=58&descSize=20" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+production-ready+applications;Spring+Boot+%7C+React+%7C+Microservices;Passionate+about+clean+architecture;Always+learning+new+technologies+🚀" />
 
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SivaPrasannaS&style=flat-square&color=58A6FF" />
-<img src="https://img.shields.io/github/followers/SivaPrasannaS?style=flat-square&color=58A6FF" />
+<a href="https://github.com/SivaPrasannaS">
+  <img src="https://img.shields.io/github/followers/SivaPrasannaS?style=for-the-badge&color=38BDF8&labelColor=0F172A" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=SivaPrasannaS&style=for-the-badge&color=38BDF8&labelColor=0F172A" />
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Code%20.%20Build%20.%20Scale&fontSize=42&fontColor=ffffff&animation=fadeIn&color=0:0d1117,100:1f6feb" />
-
-# 🧑‍💻 About Me
+# ⚡ About Me
 
 ```yaml
 name: Siva Prasanna S
 role: Technical Trainer & Full Stack Developer
-location: India 🇮🇳
+location: India
 
-specialization:
+focus:
   - Spring Boot
   - React
   - Microservices
   - REST APIs
-  - Cloud
+  - Cloud & DevOps
 
 currently_learning:
-  - Kafka
   - Kubernetes
+  - Kafka
   - System Design
 ```
 
 ---
 
-# ⚒️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -59,41 +55,21 @@ currently_learning:
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<a href="https://github.com/SivaPrasannaS/spring-security">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=spring-security&theme=tokyonight&hide_border=true&bg_color=0F172A" />
+</a>
 
-### 🔐 Spring Security System
+<a href="https://github.com/SivaPrasannaS/Event-Hub">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=Event-Hub&theme=tokyonight&hide_border=true&bg_color=0F172A" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=spring-security&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/SivaPrasannaS/Blog-Application">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=Blog-Application&theme=tokyonight&hide_border=true&bg_color=0F172A" />
+</a>
 
-</td>
-<td width="50%">
-
-### 🎟️ Event Hub
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=Event-Hub&theme=tokyonight&hide_border=true" />
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📝 Blog Application
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=Blog-Application&theme=tokyonight&hide_border=true" />
-
-</td>
-<td width="50%">
-
-### 📦 Content Hub Manager
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=Content-Hub-Manager&theme=tokyonight&hide_border=true" />
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/SivaPrasannaS/Content-Hub-Manager">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=Content-Hub-Manager&theme=tokyonight&hide_border=true&bg_color=0F172A" />
+</a>
 
 </div>
 
@@ -103,13 +79,14 @@ currently_learning:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SivaPrasannaS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SivaPrasannaS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaPrasannaS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaPrasannaS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A" />
 
 <br/>
+<br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=SivaPrasannaS&theme=tokyonight&hide_border=true&background=0d1117" />
+<img width="70%" src="https://streak-stats.demolab.com?user=SivaPrasannaS&theme=tokyonight&hide_border=true&background=0F172A" />
 
 </div>
 
@@ -119,7 +96,7 @@ currently_learning:
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SivaPrasannaS&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SivaPrasannaS&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=38BDF8&line=38BDF8&point=FFFFFF" />
 
 </div>
 
@@ -129,7 +106,7 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SivaPrasannaS&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=SivaPrasannaS&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" />
 
 </div>
 
@@ -140,15 +117,15 @@ currently_learning:
 <div align="center">
 
 <a href="https://github.com/SivaPrasannaS">
-<img src="https://skillicons.dev/icons?i=github" height="50" />
+  <img src="https://skillicons.dev/icons?i=github" height="48" />
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+<a href="https://linkedin.com">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
 </a>
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="48" />
 </a>
 
 </div>
@@ -157,6 +134,6 @@ currently_learning:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1f6feb,100:0d1117" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38BDF8,50:1E3A8A,100:0F172A" />
 
 </div>
