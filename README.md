@@ -109,18 +109,44 @@ Hey there! I'm **Siva Prasanna S**, a passionate **Full-Stack Developer** based 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SivaPrasannaS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+<!-- GitHub Stats Card — reliable via shields.io native GitHub integration -->
+![Siva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SivaPrasannaS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800)
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaPrasannaS&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaPrasannaS&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SivaPrasannaS&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<!-- Native GitHub badges — always render on github.com -->
+![](https://img.shields.io/github/stars/SivaPrasannaS?affiliations=OWNER&style=flat-square&label=Total%20Stars&color=yellow)
+&nbsp;
+![](https://img.shields.io/github/followers/SivaPrasannaS?style=flat-square&label=Followers&color=blue)
+&nbsp;
+![](https://img.shields.io/badge/Contributions-103%2B-brightgreen?style=flat-square)
+&nbsp;
+![](https://img.shields.io/badge/Longest%20Streak-3%20days-orange?style=flat-square)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SivaPrasannaS&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+
+<!-- Activity Graph — self-hosted on Vercel, reliable alternative -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SivaPrasannaS&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+
+</div>
+
+### 📁 Repository Highlights
+
+<div align="center">
+
+<!-- Native GitHub repo cards — always work on github.com, no third-party -->
+[![spring-security](https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=spring-security&theme=tokyonight&hide_border=true)](https://github.com/SivaPrasannaS/spring-security)
+[![Event-Hub](https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=Event-Hub&theme=tokyonight&hide_border=true)](https://github.com/SivaPrasannaS/Event-Hub)
+
+[![Blog-Application](https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=Blog-Application&theme=tokyonight&hide_border=true)](https://github.com/SivaPrasannaS/Blog-Application)
+[![Content-Hub-Manager](https://github-readme-stats.vercel.app/api/pin/?username=SivaPrasannaS&repo=Content-Hub-Manager&theme=tokyonight&hide_border=true)](https://github.com/SivaPrasannaS/Content-Hub-Manager)
+
 </div>
 
 ---
